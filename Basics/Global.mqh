@@ -16,3 +16,6 @@ double      CandleColorBuffer[];
 
 string      klmFiboLevelsArray[];
 string      gwlFiboLevelsArray[];
+string      sglFiboLevelsArray[];
+
+bool        createFiboLevels = true;

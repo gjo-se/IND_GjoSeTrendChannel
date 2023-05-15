@@ -18,6 +18,8 @@
 #include <GjoSe\\Utilities\\InclBasicUtilities.mqh>
 #include <GjoSe\\Objects\\InclTrendLine.mqh>
 #include <GjoSe\\Objects\\InclRegressionChannel.mqh>
+#include <GjoSe\\Objects\\InclRectangle.mqh>
+#include <GjoSe\\Objects\\InclLabel.mqh>
 
 #include "..\\Objects\\RegressionChannel.mqh"
 
